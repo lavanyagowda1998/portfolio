@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../web"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio",
+		"git.ignoreLimitWarning": true
+	}
+}
